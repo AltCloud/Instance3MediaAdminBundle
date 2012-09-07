@@ -1,0 +1,12 @@
+ACInst3MediaAdminBundle_admin_media:
+    resource: "@ACInst3MediaAdminBundle/Resources/config/routing/media.yml"
+    prefix:   /admin/media
+
+ACInst3MediaAdminBundle_admin_gallery:
+    resource: "@ACInst3MediaAdminBundle/Resources/config/routing/gallery.yml"
+    prefix:   /admin/gallery
+
+ACInst3MediaAdminBundle_admin_format:
+    resource: "@ACInst3MediaAdminBundle/Resources/config/routing/format.yml"
+    prefix:   /admin/format
+    
