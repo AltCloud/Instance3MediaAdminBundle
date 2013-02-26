@@ -9,4 +9,3 @@ ACInst3MediaAdminBundle_admin_gallery:
 ACInst3MediaAdminBundle_admin_format:
     resource: "@ACInst3MediaAdminBundle/Resources/config/routing/format.yml"
     prefix:   /admin/format
-    
