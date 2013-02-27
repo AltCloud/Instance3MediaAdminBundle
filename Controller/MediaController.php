@@ -6,7 +6,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 use AltCloud\Instance3MediaBundle\Entity\Media;
 use AltCloud\Instance3MediaBundle\Entity\Format;
-use AltCloud\Instance3MediaBundle\Form\MediaType;
+use AltCloud\Instance3MediaAdminBundle\Form\MediaType;
 
 /**
  * Media controller.

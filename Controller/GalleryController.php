@@ -5,7 +5,7 @@ namespace AltCloud\Instance3MediaAdminBundle\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 use AltCloud\Instance3MediaBundle\Entity\Gallery;
-use AltCloud\Instance3MediaBundle\Form\GalleryType;
+use AltCloud\Instance3MediaAdminBundle\Form\GalleryType;
 
 /**
  * Gallery controller.

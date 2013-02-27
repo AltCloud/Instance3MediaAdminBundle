@@ -5,7 +5,7 @@ namespace AltCloud\Instance3MediaAdminBundle\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 use AltCloud\Instance3MediaBundle\Entity\Format;
-use AltCloud\Instance3MediaBundle\Form\FormatType;
+use AltCloud\Instance3MediaAdminBundle\Form\FormatType;
 
 /**
  * Format controller.
